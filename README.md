@@ -8,10 +8,9 @@
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Edu-GIF" src="![animesher com_gif-anime-kawaii-k-on-1903186](https://github.com/EduardoDev7/EduardoDev7/assets/134420076/005774bf-2242-4e05-9323-9702a4cfc2a3)
-">
   
   
+  ![animesher com_gif-anime-kawaii-k-on-1903186](https://github.com/EduardoDev7/EduardoDev7/assets/134420076/005774bf-2242-4e05-9323-9702a4cfc2a3)
 
   ##
  
