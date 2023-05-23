@@ -10,7 +10,8 @@
   <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
   
-  ![animesher com_gif-anime-kawaii-k-on-1903186](https://github.com/EduardoDev7/EduardoDev7/assets/134420076/005774bf-2242-4e05-9323-9702a4cfc2a3)
+  ![k126wnojy9801](https://github.com/EduardoDev7/EduardoDev7/assets/134420076/e097c77f-13e9-49e4-9760-9385a1942426)
+
 
   ##
  
